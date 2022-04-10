@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Images of Calvin and Hobbes](https://www.gocomics.com/calvinandhobbes)
