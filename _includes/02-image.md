@@ -1,1 +1,1 @@
-![Images of Calvin and Hobbes](https://www.gocomics.com/calvinandhobbes/2022/04/10)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
